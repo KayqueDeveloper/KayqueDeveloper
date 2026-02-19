@@ -28,11 +28,4 @@ Working on critical infrastructure to enable high-throughput financial transacti
 
 ---
 
-### ⚡ Stats
-
-![Kayque's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayqueDeveloper&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueDeveloper&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kayque-orlando-oliveira-tavares-bb27b51a9)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kayquedeveloper/)
